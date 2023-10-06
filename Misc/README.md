@@ -4,3 +4,4 @@ https://powerapps.microsoft.com/en-us/blog/craft-app-height-and-width-expression
 Wrap --> To create wrapper application 
 Power Pipeline 
 
+Emailer for static sites - https://formspree.io
