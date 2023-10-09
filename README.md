@@ -1,1 +1,1 @@
-# Power_Platform
+This repository encompasses all the materials generously shared by Microsoft throughout the Microsoft Power Platform 2023 conference.
