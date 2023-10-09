@@ -7,4 +7,4 @@ This repository encompasses all the materials generously shared by Microsoft thr
 3. [Day 3-5](https://github.com/jobinjohnym84/Power_Platform/tree/main/Day%203-5%20Presentations)
 4. [Day 6](https://github.com/jobinjohnym84/Power_Platform/tree/main/Day%206)
 5. [Jobin_Experiments](https://github.com/jobinjohnym84/Power_Platform/tree/main/Jobin_Experiments)
-6. Misc
+6. [Misc](https://github.com/jobinjohnym84/Power_Platform/tree/main/Misc)
